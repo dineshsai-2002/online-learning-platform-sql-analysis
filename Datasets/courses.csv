@@ -1,0 +1,401 @@
+course_id,course_name,category,instructor_id,price
+1,Course_1,Web Dev,80,499
+2,Course_2,Web Dev,25,499
+3,Course_3,Web Dev,13,199
+4,Course_4,AI,86,199
+5,Course_5,Business,69,999
+6,Course_6,Data Science,79,199
+7,Course_7,Business,59,2499
+8,Course_8,Design,4,1499
+9,Course_9,AI,56,999
+10,Course_10,Design,60,1499
+11,Course_11,Web Dev,56,499
+12,Course_12,AI,77,499
+13,Course_13,Web Dev,62,1499
+14,Course_14,Data Science,8,999
+15,Course_15,Business,17,2499
+16,Course_16,Design,84,1499
+17,Course_17,AI,84,1999
+18,Course_18,Cloud,20,2499
+19,Course_19,AI,13,2499
+20,Course_20,Design,67,499
+21,Course_21,Cloud,71,999
+22,Course_22,AI,50,1499
+23,Course_23,Web Dev,69,2499
+24,Course_24,Design,23,199
+25,Course_25,Cloud,63,1999
+26,Course_26,Web Dev,33,1499
+27,Course_27,Web Dev,59,199
+28,Course_28,Business,38,499
+29,Course_29,Design,37,499
+30,Course_30,AI,71,1999
+31,Course_31,Web Dev,94,1499
+32,Course_32,Design,27,499
+33,Course_33,AI,70,199
+34,Course_34,Web Dev,35,499
+35,Course_35,Design,41,199
+36,Course_36,Business,14,1999
+37,Course_37,Web Dev,80,1499
+38,Course_38,Design,41,499
+39,Course_39,Cloud,28,1499
+40,Course_40,Design,82,199
+41,Course_41,Design,24,2499
+42,Course_42,Web Dev,91,999
+43,Course_43,Business,84,1999
+44,Course_44,AI,60,199
+45,Course_45,Data Science,78,2499
+46,Course_46,Design,79,499
+47,Course_47,Design,38,1999
+48,Course_48,Web Dev,16,999
+49,Course_49,Design,39,999
+50,Course_50,Business,41,2499
+51,Course_51,Design,75,199
+52,Course_52,Data Science,1,2499
+53,Course_53,AI,39,1499
+54,Course_54,Web Dev,40,1999
+55,Course_55,Design,41,499
+56,Course_56,Web Dev,90,499
+57,Course_57,AI,15,1999
+58,Course_58,Data Science,11,499
+59,Course_59,Business,26,499
+60,Course_60,Web Dev,54,999
+61,Course_61,Cloud,90,199
+62,Course_62,AI,11,499
+63,Course_63,Web Dev,22,2499
+64,Course_64,Web Dev,20,2499
+65,Course_65,Data Science,47,1999
+66,Course_66,Data Science,14,1999
+67,Course_67,Cloud,93,499
+68,Course_68,Data Science,29,499
+69,Course_69,Cloud,92,999
+70,Course_70,Cloud,24,1499
+71,Course_71,Data Science,40,199
+72,Course_72,Business,45,1499
+73,Course_73,Web Dev,1,2499
+74,Course_74,Data Science,87,499
+75,Course_75,Data Science,72,199
+76,Course_76,AI,27,999
+77,Course_77,Data Science,38,1499
+78,Course_78,Data Science,78,1999
+79,Course_79,AI,37,199
+80,Course_80,Design,43,1499
+81,Course_81,Design,83,2499
+82,Course_82,Data Science,23,2499
+83,Course_83,Design,25,499
+84,Course_84,Business,17,499
+85,Course_85,Web Dev,19,999
+86,Course_86,AI,85,1999
+87,Course_87,Web Dev,90,1999
+88,Course_88,Cloud,98,199
+89,Course_89,Business,98,499
+90,Course_90,AI,87,2499
+91,Course_91,Design,21,2499
+92,Course_92,Design,37,999
+93,Course_93,Data Science,13,1499
+94,Course_94,Cloud,67,199
+95,Course_95,Cloud,66,1499
+96,Course_96,Business,39,199
+97,Course_97,Cloud,83,999
+98,Course_98,Design,67,199
+99,Course_99,Cloud,11,499
+100,Course_100,Cloud,69,499
+101,Course_101,Cloud,37,1999
+102,Course_102,AI,52,999
+103,Course_103,Design,55,999
+104,Course_104,Data Science,95,1999
+105,Course_105,Design,40,2499
+106,Course_106,Data Science,85,999
+107,Course_107,Business,2,999
+108,Course_108,Web Dev,48,199
+109,Course_109,Data Science,76,2499
+110,Course_110,Design,7,1999
+111,Course_111,Business,91,1499
+112,Course_112,Cloud,47,499
+113,Course_113,Data Science,94,199
+114,Course_114,Web Dev,92,1999
+115,Course_115,Business,70,1499
+116,Course_116,Cloud,48,199
+117,Course_117,Business,4,499
+118,Course_118,Web Dev,30,999
+119,Course_119,Business,55,1999
+120,Course_120,Web Dev,51,1999
+121,Course_121,Design,73,2499
+122,Course_122,Cloud,51,2499
+123,Course_123,Business,10,1999
+124,Course_124,Cloud,73,1999
+125,Course_125,Data Science,61,1999
+126,Course_126,Business,31,1499
+127,Course_127,AI,100,199
+128,Course_128,Cloud,23,1999
+129,Course_129,Cloud,4,2499
+130,Course_130,Design,10,1999
+131,Course_131,Design,10,499
+132,Course_132,AI,38,2499
+133,Course_133,AI,75,499
+134,Course_134,Data Science,16,1999
+135,Course_135,AI,97,2499
+136,Course_136,Business,85,499
+137,Course_137,Design,23,199
+138,Course_138,AI,50,499
+139,Course_139,Data Science,13,999
+140,Course_140,Data Science,66,999
+141,Course_141,Design,80,1999
+142,Course_142,Design,42,1499
+143,Course_143,Cloud,93,2499
+144,Course_144,AI,40,2499
+145,Course_145,Data Science,61,1499
+146,Course_146,Data Science,96,2499
+147,Course_147,Design,15,199
+148,Course_148,AI,29,199
+149,Course_149,Web Dev,47,499
+150,Course_150,AI,56,2499
+151,Course_151,Data Science,40,999
+152,Course_152,Business,83,2499
+153,Course_153,Web Dev,21,199
+154,Course_154,Web Dev,11,199
+155,Course_155,Design,82,199
+156,Course_156,Business,78,999
+157,Course_157,Data Science,73,499
+158,Course_158,Business,33,1499
+159,Course_159,Design,33,199
+160,Course_160,Design,50,999
+161,Course_161,Design,31,1499
+162,Course_162,AI,4,999
+163,Course_163,Business,13,999
+164,Course_164,Web Dev,34,2499
+165,Course_165,AI,55,999
+166,Course_166,Web Dev,94,999
+167,Course_167,AI,9,199
+168,Course_168,Business,25,1999
+169,Course_169,Cloud,26,1499
+170,Course_170,Cloud,50,499
+171,Course_171,Design,48,499
+172,Course_172,Business,38,1499
+173,Course_173,AI,43,1499
+174,Course_174,Business,50,1499
+175,Course_175,Cloud,44,1499
+176,Course_176,Data Science,85,2499
+177,Course_177,Design,35,1999
+178,Course_178,AI,37,1499
+179,Course_179,Business,16,1499
+180,Course_180,Design,91,999
+181,Course_181,Business,8,199
+182,Course_182,Data Science,43,199
+183,Course_183,Data Science,10,1999
+184,Course_184,Data Science,44,1999
+185,Course_185,Web Dev,57,199
+186,Course_186,Cloud,42,1499
+187,Course_187,AI,94,499
+188,Course_188,Web Dev,13,1999
+189,Course_189,Web Dev,41,199
+190,Course_190,Web Dev,91,1499
+191,Course_191,Design,32,499
+192,Course_192,Design,49,499
+193,Course_193,Cloud,10,1999
+194,Course_194,AI,38,199
+195,Course_195,AI,93,2499
+196,Course_196,Business,63,2499
+197,Course_197,Design,63,999
+198,Course_198,Business,1,499
+199,Course_199,Business,23,2499
+200,Course_200,Web Dev,5,2499
+201,Course_201,Design,37,2499
+202,Course_202,Cloud,45,2499
+203,Course_203,Web Dev,77,999
+204,Course_204,Business,19,1499
+205,Course_205,Cloud,20,199
+206,Course_206,Design,63,1499
+207,Course_207,Data Science,2,499
+208,Course_208,Cloud,28,999
+209,Course_209,AI,25,2499
+210,Course_210,AI,77,999
+211,Course_211,AI,51,199
+212,Course_212,AI,70,199
+213,Course_213,AI,99,199
+214,Course_214,AI,66,2499
+215,Course_215,AI,3,2499
+216,Course_216,Web Dev,44,1999
+217,Course_217,Web Dev,54,499
+218,Course_218,Web Dev,78,499
+219,Course_219,Cloud,99,1499
+220,Course_220,Data Science,59,999
+221,Course_221,Design,70,1499
+222,Course_222,Data Science,27,2499
+223,Course_223,AI,93,499
+224,Course_224,Cloud,35,499
+225,Course_225,Web Dev,51,199
+226,Course_226,Cloud,18,499
+227,Course_227,Data Science,22,999
+228,Course_228,Cloud,79,1999
+229,Course_229,Data Science,18,499
+230,Course_230,Web Dev,72,1999
+231,Course_231,Web Dev,18,199
+232,Course_232,Cloud,49,2499
+233,Course_233,Design,84,999
+234,Course_234,Web Dev,30,1499
+235,Course_235,Design,10,199
+236,Course_236,Cloud,9,1499
+237,Course_237,Web Dev,13,499
+238,Course_238,AI,57,2499
+239,Course_239,Business,73,1499
+240,Course_240,Data Science,22,199
+241,Course_241,AI,98,999
+242,Course_242,Design,60,499
+243,Course_243,Cloud,49,2499
+244,Course_244,AI,12,499
+245,Course_245,Business,36,1999
+246,Course_246,Data Science,48,499
+247,Course_247,Business,11,499
+248,Course_248,Design,66,999
+249,Course_249,Business,60,999
+250,Course_250,Design,5,499
+251,Course_251,Data Science,62,1999
+252,Course_252,Design,21,1999
+253,Course_253,Cloud,67,2499
+254,Course_254,Business,44,199
+255,Course_255,Data Science,83,1499
+256,Course_256,Data Science,99,2499
+257,Course_257,Design,1,2499
+258,Course_258,Design,7,199
+259,Course_259,Cloud,21,499
+260,Course_260,Design,61,1999
+261,Course_261,AI,66,2499
+262,Course_262,Business,37,1999
+263,Course_263,Business,33,199
+264,Course_264,Data Science,22,499
+265,Course_265,AI,83,499
+266,Course_266,AI,46,999
+267,Course_267,Business,55,499
+268,Course_268,Design,61,499
+269,Course_269,Data Science,19,199
+270,Course_270,Cloud,25,499
+271,Course_271,Data Science,85,2499
+272,Course_272,Web Dev,15,199
+273,Course_273,Design,4,999
+274,Course_274,Cloud,58,2499
+275,Course_275,Data Science,47,2499
+276,Course_276,AI,44,1999
+277,Course_277,Design,73,999
+278,Course_278,Cloud,5,2499
+279,Course_279,AI,87,1499
+280,Course_280,Cloud,62,999
+281,Course_281,Cloud,5,1499
+282,Course_282,Web Dev,52,499
+283,Course_283,Data Science,22,2499
+284,Course_284,AI,79,1499
+285,Course_285,AI,78,1999
+286,Course_286,Web Dev,5,199
+287,Course_287,Data Science,88,1499
+288,Course_288,Web Dev,90,1999
+289,Course_289,Cloud,80,199
+290,Course_290,Web Dev,25,1499
+291,Course_291,Design,40,1999
+292,Course_292,Business,71,499
+293,Course_293,Design,25,999
+294,Course_294,Web Dev,83,499
+295,Course_295,Data Science,54,199
+296,Course_296,Data Science,95,199
+297,Course_297,Design,71,199
+298,Course_298,Business,28,1999
+299,Course_299,Data Science,88,199
+300,Course_300,Design,78,1499
+301,Course_301,Data Science,13,2499
+302,Course_302,Web Dev,83,2499
+303,Course_303,Web Dev,93,2499
+304,Course_304,AI,88,499
+305,Course_305,Design,70,1499
+306,Course_306,Web Dev,96,2499
+307,Course_307,Cloud,48,1499
+308,Course_308,Design,80,1499
+309,Course_309,Design,82,1999
+310,Course_310,Design,97,1499
+311,Course_311,Cloud,95,999
+312,Course_312,Data Science,53,1499
+313,Course_313,Business,100,2499
+314,Course_314,AI,48,1499
+315,Course_315,Business,6,999
+316,Course_316,Cloud,86,999
+317,Course_317,Cloud,12,1999
+318,Course_318,Business,40,199
+319,Course_319,AI,86,1999
+320,Course_320,Cloud,56,499
+321,Course_321,AI,82,199
+322,Course_322,Design,97,2499
+323,Course_323,Design,12,1499
+324,Course_324,AI,6,199
+325,Course_325,Data Science,96,1999
+326,Course_326,Design,41,499
+327,Course_327,Data Science,54,1999
+328,Course_328,Business,88,499
+329,Course_329,Web Dev,11,499
+330,Course_330,AI,43,499
+331,Course_331,AI,76,1999
+332,Course_332,Design,7,199
+333,Course_333,Web Dev,91,1999
+334,Course_334,Web Dev,98,1999
+335,Course_335,AI,99,2499
+336,Course_336,Business,1,999
+337,Course_337,Business,13,199
+338,Course_338,AI,25,999
+339,Course_339,AI,97,1499
+340,Course_340,AI,68,1499
+341,Course_341,Data Science,50,499
+342,Course_342,AI,80,2499
+343,Course_343,Business,61,199
+344,Course_344,Web Dev,32,499
+345,Course_345,Cloud,66,499
+346,Course_346,Web Dev,84,1999
+347,Course_347,Web Dev,97,1999
+348,Course_348,Design,36,199
+349,Course_349,Design,95,999
+350,Course_350,Data Science,28,1999
+351,Course_351,Web Dev,55,1499
+352,Course_352,AI,51,499
+353,Course_353,Web Dev,1,499
+354,Course_354,Design,53,2499
+355,Course_355,AI,21,1999
+356,Course_356,Cloud,8,2499
+357,Course_357,AI,71,999
+358,Course_358,Data Science,66,1999
+359,Course_359,Design,42,2499
+360,Course_360,AI,26,1999
+361,Course_361,AI,1,199
+362,Course_362,AI,89,1499
+363,Course_363,Cloud,57,199
+364,Course_364,Data Science,76,1499
+365,Course_365,Business,20,499
+366,Course_366,Cloud,64,199
+367,Course_367,AI,26,499
+368,Course_368,Data Science,53,499
+369,Course_369,Data Science,78,2499
+370,Course_370,Design,5,1999
+371,Course_371,Web Dev,38,199
+372,Course_372,Web Dev,26,199
+373,Course_373,Cloud,27,499
+374,Course_374,AI,11,2499
+375,Course_375,Data Science,1,999
+376,Course_376,Business,13,499
+377,Course_377,Web Dev,3,199
+378,Course_378,AI,4,499
+379,Course_379,Business,93,1999
+380,Course_380,Cloud,80,999
+381,Course_381,AI,12,1999
+382,Course_382,AI,99,499
+383,Course_383,Data Science,29,1499
+384,Course_384,AI,43,1499
+385,Course_385,Web Dev,97,1499
+386,Course_386,Design,53,999
+387,Course_387,Business,13,199
+388,Course_388,Web Dev,71,2499
+389,Course_389,AI,89,999
+390,Course_390,AI,39,2499
+391,Course_391,Design,15,199
+392,Course_392,Web Dev,51,2499
+393,Course_393,Web Dev,2,1999
+394,Course_394,Design,97,1499
+395,Course_395,Web Dev,75,1999
+396,Course_396,Web Dev,74,1999
+397,Course_397,Cloud,7,499
+398,Course_398,Cloud,78,499
+399,Course_399,Business,23,2499
+400,Course_400,Cloud,73,1999
